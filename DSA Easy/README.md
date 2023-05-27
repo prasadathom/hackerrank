@@ -2,7 +2,7 @@ Question Array DS :- [Array DS](https://www.hackerrank.com/challenges/arrays-ds?
 Solution :- [DSA Easy/Array DS](https://github.com/prasadathom/hackerrank/blob/a4c081dfc426670cc4770a6b2bec08e5e2275c75/DSA%20Easy/Array%20DS.py)
 
 Question 2D Array DS :- [2D Array DS](https://www.hackerrank.com/challenges/2d-array?isFullScreen=true)
-Solution :- [DSA Easy/2D Array DS](https://github.com/prasadathom/hackerrank/blob/a4c081dfc426670cc4770a6b2bec08e5e2275c75/DSA%20Easy/2D%20Array%20DS.py)
+Solution :- [DSA Easy/2D Array DS](https://github.com/prasadathom/hackerrank/blob/main/DSA%20Easy/2D%20Array%20DS.py)
 
 Question Dynamic Array :- [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array?isFullScreen=true)
 Solution :- [DSA Easy/Dynamic Array](https://github.com/prasadathom/hackerrank/blob/a4c081dfc426670cc4770a6b2bec08e5e2275c75/DSA%20Easy/Dynamic%20Array.py)
