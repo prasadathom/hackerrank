@@ -23,3 +23,9 @@ Solution :- [DSA Easy/whats_your_name](https://github.com/prasadathom/hackerrank
 
 Question Mutations :- [Mutations](https://www.hackerrank.com/challenges/python-mutations?isFullScreen=true)
 Solution :- [DSA Easy/mutations](https://github.com/prasadathom/hackerrank/blob/main/DSA%20Easy/mutations.py)
+
+Question Find A String :- [Find A String](https://www.hackerrank.com/challenges/find-a-string?isFullScreen=true)
+Solution :- [DSA Easy/find_a_string](https://github.com/prasadathom/hackerrank/blob/main/DSA%20Easy/find_a_string.py)
+
+Question String Validators :- [String Validators](https://www.hackerrank.com/challenges/string-validators?isFullScreen=true)
+Solution :- [DSA Easy/string_validators](https://github.com/prasadathom/hackerrank/blob/main/DSA%20Easy/string_validators.py)
