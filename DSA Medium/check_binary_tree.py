@@ -1,4 +1,4 @@
-def checkBST(root):
+def check_binary_search_tree_(root):
     return check_BST_subtree(root, -1, 10001)    
     
 def check_BST_subtree(root, min_value, max_value):
